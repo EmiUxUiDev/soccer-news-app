@@ -12,7 +12,7 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:id="@+id/thumbnail"
+            android:id="@+id/ivThumbnail"
             android:layout_width="0dp"
             android:layout_height="@dimen/new_image_height"
             android:contentDescription="@string/cd_news_image"
@@ -31,7 +31,7 @@
             android:layout_marginTop="@dimen/default_margin"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/thumbnail"
+            app:layout_constraintTop_toBottomOf="@+id/ivThumbnail"
             tools:text="Ferroviaria vence al Palmeiras" />
 
         <com.google.android.material.textview.MaterialTextView
