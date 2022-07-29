@@ -1,4 +1,4 @@
-package me.dio.soccernews.data.remote;
+package me.dio.soccernews.data.all.remote;
 
 import java.util.List;
 
