@@ -6,6 +6,9 @@
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1865" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_download.xml" value="0.1485" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_favorite.xml" value="0.1485" />
+        <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.134" />
+        <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_launcher_app.xml" value="0.112" />
+        <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_launcher_background.xml" value="0.134" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_share.xml" value="0.1485" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_soccer.xml" value="0.1485" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/activity_main.xml" value="0.25" />
@@ -16,6 +19,7 @@
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/news_items.xml" value="0.25" />
         <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Emiliano/AndroidStudioProjects/SoccerNews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.112" />
       </map>
     </option>
   </component>
